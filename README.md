@@ -1,8 +1,14 @@
+---
+description: >-
+  A course website supporting Carleton's HIST 3909 (Special Topics in Public
+  History).
+---
+
 # 👋 Welcome to History, Historians and Games!
 
 ## Overview
 
-
+This course will introduce students to the field of Historical Game Studies.&#x20;
 
 ## Quick links
 
